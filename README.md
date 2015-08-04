@@ -6,12 +6,14 @@ optimization to achieve a PageSpeed score of 90 on index.html and ensure a consi
 
 
 How to run:
+-------------
 1. Go to https://developers.google.com/speed/pagespeed/insights/
 2. Enter https://developers.google.com/speed/pagespeed/insights/ to analyze.
 
 
 
 Optimizations done for the project:
+-------------------------
 
 The following changes were made:
 ------------
